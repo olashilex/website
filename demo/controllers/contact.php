@@ -1,7 +1,5 @@
 <?php
 
-
-
 $heading = 'Contact Us';
 
 
