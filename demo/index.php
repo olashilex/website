@@ -12,6 +12,3 @@ if ($uri === '/demo/' || $uri === '/demo/index.php') {
 } else {
   echo "Page not found";
 }
-
-var_dump($uri);
-die();
